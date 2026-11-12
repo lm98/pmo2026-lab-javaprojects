@@ -6,7 +6,7 @@ package it.unibo.oop.robot.base;
  */
 public class BaseRobot implements Robot {
 
-    public static final double BATTERY_FULL = 100;
+    //public static final double BATTERY_FULL = 100;
     public static final double MOVEMENT_DELTA_CONSUMPTION = 1.2;
     private static final int MOVEMENT_DELTA = 1;
 
